@@ -8,7 +8,13 @@ Template for creating a Terraform module for AWS
 
 ## Features
 
+- base terraform files
+- pre-commit setup
+- GitHub actions setup
+
 ## Usage
+
+Copy contents or create new repository on GitHub and use this as a template
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
