@@ -1,8 +1,8 @@
 # terraform-aws-module-template
 
-[![Releases](https://img.shields.io/github/v/release/notable-health/terraform-aws-module-template)](https://github.com/notable-health/terraform-aws-module-template/releases)
+[![Releases](https://img.shields.io/github/v/release/notablehealth/terraform-aws-module-template)](https://github.com/notablehealth/terraform-aws-module-template/releases)
 
-[Terraform Module Registry](https://registry.terraform.io/modules/notable-health/module-template/aws)
+[Terraform Module Registry](https://registry.terraform.io/modules/notablehealth/module-template/aws)
 
 Template for creating a Terraform module for AWS
 
